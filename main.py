@@ -12,7 +12,7 @@ import pyautogui
 import datetime
 import threading
 
-token = "5462614670:AAHVubo_KmPvnOzNcKuN67CmhFxRtLDJ1O4"
+token = "token"
 lock = False
 
 telegram_bot = telebot.TeleBot(token)
